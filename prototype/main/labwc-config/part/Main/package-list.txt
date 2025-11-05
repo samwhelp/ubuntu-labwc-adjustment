@@ -1,0 +1,28 @@
+
+
+##
+## # Labwc
+##
+
+
+
+
+##
+## ## Package / Labwc
+##
+
+labwc
+#wlogout
+wofi
+
+
+
+
+##
+## ## Package / Wallpaper
+##
+
+hyprpaper
+#swaybg
+#azote
+#wf-shell
